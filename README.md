@@ -10,10 +10,6 @@ Debugging my code and my life simultaneously.
 
 <br>
 
-### About
-
-Currently exploring Machine Learning, NLP, and Data Analytics, while building practical applications with Python, Flutter, and SQL.
-
 <br>
 
 </div>
