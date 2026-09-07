@@ -2,7 +2,7 @@
 
 # Anmol Sinha
 
-**B.Tech Computer Science · ML/AI · Software Development**
+**Competitive programming · ML/AI · Software Development**
 
 Debugging my code and my life simultaneously.
 
