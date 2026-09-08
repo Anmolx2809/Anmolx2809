@@ -1,4 +1,4 @@
-</div>
+<div allign="left">
 
 # Anmol Sinha
 
@@ -10,10 +10,7 @@
 
 <br>
 
-</div>
 # Contribution Graph
-<div allign="center">
-
- ![snake gif](https://github.com/Anmolx2809/Anmolx2809/blob/output/github-snake-dark.svg)
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anmolx2809/Anmolx2809/output/github-snake-dark.svg" alt="GitHub Snake Game" />
 </div>
