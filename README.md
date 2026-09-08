@@ -2,13 +2,11 @@
 
 # Anmol Sinha
 
-**Competitive programming · ML/AI · Software Development**
+**Competitive programming · AI/ML · Software Development**
 
-Debugging my code and my life simultaneously.
+**Debugging my code and my life simultaneously.**
 
 </div>
-
-<br>
 
 <br>
 
