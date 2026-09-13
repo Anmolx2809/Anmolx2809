@@ -4,8 +4,6 @@
 
 **Competitive programming · AI/ML · Software Development**
 
-**Debugging my code and my life simultaneously.**
-
 </div>
 
 # Contribution Graph
